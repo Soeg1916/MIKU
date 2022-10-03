@@ -215,8 +215,8 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Miku_updates"),
             ],
             [
-                InlineKeyboardButton(" 【V๏ɪ፝֟𝔡】◈Network◈", url="https://t.me/VoidxNetwork"),
-                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/Mr_nack_nack"),
+                InlineKeyboardButton(" 【V๏ɪ፝֟𝔡】◈Network◈", url="https://t.me/soegpay"),
+                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/@Soeg1916"),
             ],
             [
                 InlineKeyboardButton(" ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
